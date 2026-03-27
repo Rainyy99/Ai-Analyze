@@ -1,0 +1,12 @@
+TELEGRAM_TOKEN = "YOUR BOT TOKEN"
+
+PAIRS = [
+    "BTC/USDC",
+    "ETH/USDC",
+    "SOL/USDC",
+    "XAUT/USDT",   
+    "HYPE/USDC"      
+]
+
+TIMEFRAME = "15m"
+LIMIT = 200
