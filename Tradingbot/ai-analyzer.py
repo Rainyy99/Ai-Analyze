@@ -1,6 +1,5 @@
 # ai_analyzer.py
-# Groq LLM tanpa SDK — hanya pakai requests (tidak butuh pydantic)
-
+# Groq LLM tanpa SDK — hanya pakai requests
 import asyncio
 import requests
 from config import GROQ_API_KEY, GROQ_MODEL
